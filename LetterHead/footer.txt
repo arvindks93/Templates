@@ -1,0 +1,33 @@
+455 West Lincolnway, Suite B
+Valparaiso, IN 46385
+
+__IF[F_PROP_STATE]==IN__ 455 West Lincolnway, Suite B, Valparaiso, IN  46383	Phone (219) 462-5104 Facsimile (219) 462-9344__FI__ __IF[F_PROP_STATE]==FL__ 100 West Cypress Creek Road Suite 1045, Fort Lauderdale, Florida 33309		Phone (954) 644-8704 Facsimile (954) 772-9601 __FI__ __IF[F_PROP_STATE]==RI:CT:MA:NH__ 275 West Natick Road, Suite 500, Warwick, RI  02886	Phone: (401) 234-9200; Facsimile:  (401) 398-2594 __FI__ __IF[F_PROP_STATE]==TX__ 14643 Dallas Parkway, Suite 750, Dallas, TX 75254	Phone (972) 331-2300 Facsimile (972) 331-5240 __FI__ __IF[F_PROP_STATE]==AR__ 1405 N. Pierce, Suite 306, Little Rock, AR  72207	Phone (501) 663-6200 Facsimile (501) 663-6201
+__FI__ __IF[F_PROP_STATE]==IL__ 134 W. LaSalle Street, Suite 1900, Chicago, Illinois  60602	Phone (312) 940-8580 Facsimile (401) 262-2114 __FI__ __IF[F_PROP_STATE]==KS:MO__ 11111 Nall Avenue, Suite 104, Leawood, KA  66211	Phone: (913) 800-2021; Facsimile:  (913) 912-1267 __FI__
+
+
+275 West Natick Road, Suite 500, Warwick, RI  02886	Phone: (401) 234-9200; Facsimile:  (401) 398-2594
+
+CHRISTOPHER K. BAXTER, ESQ. 
+Admitted in AR, TX, GA & NY
+
+CHAD A. MORRONE, ESQ. 
+Admitted in MA & CT
+
+JOSEPH M. DOLBEN, ESQ. 
+Admitted in NH, MA & RI
+GARY D. MARINOSCI, ESQ. 
+Admitted in RI & MA
+
+DEREK R. COURNOYER, ESQ.
+Admitted in FL & RI
+
+DAVID M. BENGS, ESQ. 
+Admitted in IN & MI
+ROBERT S. COLEMAN, JR, ESQ. 
+Admitted in AR & TN
+
+DAVID V. NOYCE, ESQ.
+Admitted in KS & MO
+
+DIANA A. CARPINTERO, ESQ.
+Admitted in IL
